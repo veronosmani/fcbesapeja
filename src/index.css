@@ -419,23 +419,150 @@ html {
   text-align: left;
   color: white;
 }
-.Frame2SeeMore{
+.Frame2SeeMore {
   position: absolute;
-  width: Fixed (238px)px;
-height: Fixed (54px)px;
-top: 1435px;
-left: 642px;
-padding: 12px 30px 12px 30px;
-gap: 10px;
-border-radius: 8px;
-opacity: 0px;
-color: black;
-background: #FFCC29;
-font-family: Fira Sans;
-font-size: 20px;
-font-weight: 600;
-line-height: 24px;
-text-align: left;
-
-
+  width: Fixed (238px) px;
+  height: Fixed (54px) px;
+  top: 1435px;
+  left: 642px;
+  padding: 12px 30px 12px 30px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 0px;
+  color: black;
+  background: #ffcc29;
+  font-family: Fira Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+.Frame3 {
+  position: absolute;
+  width: 1512px;
+  height: 404px;
+  top: 2320px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: black;
+}
+.NumberOfMatches {
+  position: absolute;
+  width: 128px;
+  height: 72px;
+  top: 146px;
+  left: 170px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 72px;
+  text-align: left;
+  color: white;
+}
+.Matches {
+  position: absolute;
+  width: 223px;
+  height: 29px;
+  top: 228px;
+  left: 147px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 28.8px;
+  text-align: left;
+  color: #ffcc29;
+}
+.NumberOfTrainers {
+  position: absolute;
+  width: 66px;
+  height: 72px;
+  top: 146px;
+  left: 552px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 72px;
+  text-align: left;
+  color: white;
+}
+.Trainers {
+  position: absolute;
+  width: 215px;
+  height: 29px;
+  top: 228px;
+  left: 495px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 28.8px;
+  text-align: left;
+  color: #ffcc29;
+}
+.NumberOfPlayers {
+  position: absolute;
+  width: 100px;
+  height: 72px;
+  top: 146px;
+  left: 887px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 72px;
+  text-align: left;
+  color: white;
+}
+.Players {
+  position: absolute;
+  width: 210px;
+  height: 29px;
+  top: 228px;
+  left: 833px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 28.8px;
+  text-align: left;
+  color: #ffcc29;
+}
+.NumberOfAwards {
+  position: absolute;
+  width: 93px;
+  height: 72px;
+  top: 146px;
+  left: 1231px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 60px;
+  font-weight: 800;
+  line-height: 72px;
+  text-align: left;
+  color: white;
+}
+.Awards {
+  position: absolute;
+  width: 200px;
+  height: 29px;
+  top: 228px;
+  left: 1191px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 28.8px;
+  text-align: left;
+  color: #ffcc29;
 }
