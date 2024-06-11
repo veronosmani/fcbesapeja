@@ -1,6 +1,7 @@
-#image {
+html {
   width: 100%;
   height: auto;
+  background-color: black;
 }
 .Header {
   width: 1512px;
@@ -139,4 +140,70 @@
   padding: 6.75px 3.75px 6.75px 3.75px;
   gap: 0px;
   opacity: 0px;
+}
+.hero-base{
+  width: 1512px;
+height: 795px;
+left: 1512px;
+gap: 0px;
+opacity: 0px;
+angle: -180 deg;
+}
+.Frame1{
+  width: 1512px;
+height: 795px;
+left: 1512px;
+gap: 0px;
+opacity: 0px;
+angle: -180 deg;
+}
+.Frame1Text1{
+  position: absolute;
+  width: 676px;
+height: 58px;
+top: 303px;
+left: 101px;
+gap: 0px;
+opacity: 0px;
+font-family: Fira Sans;
+font-size: 48px;
+font-weight: 600;
+line-height: 57.6px;
+text-align: left;
+color: white;
+}
+.Frame1Text2{
+  position: absolute;
+  width: 190px;
+height: 38px;
+top: 371px;
+left: 101px;
+gap: 0px;
+opacity: 0px;
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 600;
+line-height: 38.4px;
+text-align: left;
+color: white;
+}
+.Frame1Button1{
+  position: absolute;
+  width: Hug (238px)px;
+height: Fixed (54px)px;
+top: 439px;
+left: 101px;
+padding: 12px 30px 12px 30px;
+gap: 10px;
+border-radius: 8px;
+opacity: 0px;
+box-shadow: 3px 4px 4px 0px #00000040;
+background: #FFCC29;
+color: black;
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+
 }
