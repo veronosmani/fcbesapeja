@@ -2,3 +2,141 @@
   width: 100%;
   height: auto;
 }
+.Header {
+  width: 1512px;
+  height: 100px;
+  gap: 0px;
+  opacity: 0px;
+  background: black;
+}
+.logo {
+  position: absolute;
+  width: 51.16px;
+  height: 64.8px;
+  top: 18px;
+  left: 101px;
+  gap: 0px;
+  opacity: 0px;
+}
+.name {
+  position: absolute;
+  width: 100px;
+  height: 43px;
+  top: 29px;
+  left: 162px;
+  gap: 0px;
+  opacity: 0px;
+}
+.Ballina:hover{
+  color: #FFCC29;
+}
+.Ballina {
+  position: absolute;
+  background-color: transparent;
+  border-color: transparent;
+  color: white;
+  width: 61px;
+  height: 19px;
+  top: 38px;
+  left: 874px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.2px;
+  text-align: left;
+}
+.Klubi:hover{
+  color: #FFCC29;
+}
+.Klubi {
+  color: white;
+  position: absolute;
+  background-color: transparent;
+  border-color: transparent;
+  width: 43px;
+  height: 19px;
+  top: 38px;
+  left: 985px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.2px;
+  text-align: left;
+}
+.Ekipi:hover{
+  color: #FFCC29;
+}
+.Ekipi {
+  color: white;
+  position: absolute;
+  background-color: transparent;
+  border-color: transparent;
+  width: 38px;
+  height: 19px;
+  top: 38px;
+  left: 1078px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.2px;
+  text-align: left;
+}
+.Lajme:hover{
+  color: #FFCC29;
+}
+.Lajme {
+  color: white;
+  position: absolute;
+  background-color: transparent;
+  border-color: transparent;
+  width: 44px;
+  height: 19px;
+  top: 38px;
+  left: 1166px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.2px;
+  text-align: left;
+}
+.Historiku:hover{
+  color: #FFCC29;
+}
+.Historiku {
+  color: white;
+  position: absolute;
+  background-color: transparent;
+  border-color: transparent;
+  width: 78px;
+  height: 19px;
+  top: 38px;
+  left: 1260px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 19.2px;
+  text-align: left;
+}
+.Nav {
+  color: white;
+  position: absolute;
+  background-color: transparent;
+  border-color: transparent;
+  width: 24px;
+  height: 24px;
+  top: 36px;
+  left: 1388px;
+  padding: 6.75px 3.75px 6.75px 3.75px;
+  gap: 0px;
+  opacity: 0px;
+}
