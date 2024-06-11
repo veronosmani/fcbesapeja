@@ -147,7 +147,6 @@ html {
   left: 1512px;
   gap: 0px;
   opacity: 0px;
-  angle: -180 deg;
 }
 .Frame1 {
   width: 1512px;
@@ -155,7 +154,6 @@ html {
   left: 1512px;
   gap: 0px;
   opacity: 0px;
-  angle: -180 deg;
 }
 .Frame1Text1 {
   position: absolute;
@@ -565,4 +563,198 @@ html {
   line-height: 28.8px;
   text-align: left;
   color: #ffcc29;
+}
+.Frame4 {
+  position: absolute;
+  width: 1512px;
+  height: 1668px;
+  top: 2724px;
+  gap: 0px;
+  opacity: 0px;
+  background-color: #ffcc29;
+}
+.Frame4Text1 {
+  position: absolute;
+  width: 410px;
+  height: 40px;
+  top: 50px;
+  left: 81px;
+  gap: 0px;
+  opacity: 0px;
+  color: black;
+  font-family: Fira Sans;
+  font-size: 33px;
+  font-weight: 600;
+  line-height: 39.6px;
+  text-align: left;
+}
+.Frame4Text2 {
+  position: absolute;
+  width: 154px;
+  height: 40px;
+  top: 130px;
+  left: 125px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+  font-size: 33px;
+  font-weight: 600;
+  line-height: 39.6px;
+  text-align: left;
+  color: #000000;
+}
+.Goalkeepers:hover {
+  background: #ffcc29;
+}
+.Goalkeepers {
+  position: absolute;
+  width: 208px;
+  height: Fixed (54px) px;
+  top: 278px;
+  left: 81px;
+  padding: 12px 30px 12px 30px;
+  gap: 10px;
+  border-radius: 50px;
+  border: 1px;
+  opacity: 0px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-shadow: 3px 4px 6px 0px #00000026;
+  font-family: Fira Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+}
+.Defenders:hover {
+  background: #ffcc29;
+}
+.Defenders {
+  position: absolute;
+  width: 208px;
+  height: Fixed (54px) px;
+  top: 382px;
+  left: 81px;
+  padding: 12px 30px 12px 30px;
+  gap: 10px;
+  border-radius: 50px;
+  border: 1px;
+  opacity: 0px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-shadow: 3px 4px 6px 0px #00000026;
+  font-family: Fira Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+}
+.Midfielders:hover {
+  background: #ffcc29;
+}
+.Midfielders {
+  position: absolute;
+  width: 208px;
+  height: Fixed (54px) px;
+  top: 486px;
+  left: 81px;
+  padding: 12px 30px 12px 30px;
+  gap: 10px;
+  border-radius: 50px;
+  border: 1px;
+  opacity: 0px;
+  background: white;
+  border: 1px solid #000000;
+  box-shadow: 3px 4px 6px 0px #00000026;
+  font-family: Fira Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+.Forwards:hover {
+  background: #ffcc29;
+}
+.Forwards {
+  position: absolute;
+  width: 208px;
+  height: Fixed (54px) px;
+  top: 590px;
+  left: 81px;
+  padding: 12px 30px 12px 30px;
+  gap: 10px;
+  border-radius: 50px;
+  border: 1px;
+  opacity: 0px;
+  background: #ffffff;
+  border: 1px solid #000000;
+  box-shadow: 3px 4px 6px 0px #00000026;
+  font-family: Fira Sans;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+}
+
+.Frame4Picture7 {
+  position: absolute;
+  width: 1351px;
+  height: 716px;
+  top: 830px;
+  left: 81px;
+  gap: 0px;
+  border-radius: 25px 0px 0px 0px;
+  opacity: 0px;
+}
+.TeamPicture {
+  width: 1351px;
+  height: 716px;
+  top: 830px;
+  left: 81px;
+  gap: 0px;
+  border-radius: 25px 0px 0px 0px;
+  opacity: 0px;
+}
+.TextBox{
+  position: absolute;
+  width: 1191px;
+height: 158px;
+top: 1347px;
+left: 161px;
+padding: 20px 62px 20px 62px;
+gap: 0px;
+border-radius: 25px; 
+background: #00000080;
+
+}
+.Frame4Text3 {
+  position: absolute;
+  width: 443px;
+height: 40px;
+top: 20px;
+left: 374px;
+gap: 0px;
+opacity: 0px;
+
+  font-family: Fira Sans;
+  font-size: 33px;
+  font-weight: 600;
+  line-height: 39.6px;
+  text-align: left;
+  color: white;
+}
+.Frame4Text4 {
+  position: absolute;
+  width: 1067px;
+  height: 58px;
+  top: 80px;
+  left: 62px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Fira Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 28.8px;
+text-align: center;
+color: white;
 }
