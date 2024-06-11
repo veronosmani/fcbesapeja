@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import Header from './components/header';
 import Frame1 from './components/Frame1';
+import Frame2 from './components/Frame2';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -11,5 +12,6 @@ root.render(
     <App />
     <Header />
     <Frame1 />
+    <Frame2 />
   </React.StrictMode>
 )
